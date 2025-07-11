@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# 🎯 Tic-Tac-Toe Game (React Tutorial)
+
+This project is a simple Tic-Tac-Toe game built by following the React official tutorial.
+
+✅ Built with React and modern JavaScript
+✅ Demonstrates component-based architecture and state management
+✅ Great for learning the basics of React development
+
+💻 Check out the live tutorial: React Tic-Tac-Toe Tutorial
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
